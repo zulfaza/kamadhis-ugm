@@ -3,8 +3,8 @@ document.addEventListener("scroll", (e) => {
   let header = document.querySelector("header");
   //   console.log(header.offsetHeight);
   //   console.log(window.scrollY);
-  if (navbar.id === "nav-pengurus") {
-    return;
+  if (navbar.id === "not-transparent") {
+    return navbar.classList.add("bg-primary");
   }
 
   if (header.offsetHeight < window.scrollY) {

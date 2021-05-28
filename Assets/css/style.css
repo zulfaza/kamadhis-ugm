@@ -87,6 +87,7 @@ header + .thumbnail img {
 
 .navbar {
   background: var(--primary-background);
+  transition: all 0.4s;
 }
 
 .navbar-dark .navbar-nav .nav-link {
