@@ -26,9 +26,6 @@ document.querySelector("footer").innerHTML = `
                       <a href="./">Beranda</a>
                   </li>
                   <li>
-                      <a href="./">Agenda</a>
-                  </li>
-                  <li>
                       <a href="./Tentang.html">Tentang</a>
                   </li>
                   <li>
@@ -38,11 +35,11 @@ document.querySelector("footer").innerHTML = `
                       <a href="./sospeng.html">Bendahara</a>
                   </li>
                   <li>
-                      <a href="./sospeng.html">Sosial dan Pengabdian
-                          Masyarakat</a>
+                      <a href="./sospeng.html">Dhamma dan Pendidikan</a>
                   </li>
                   <li>
-                      <a href="./sospeng.html">Dhamma dan Pendidikan</a>
+                      <a href="./sospeng.html">Sosial dan Pengabdian
+                          Masyarakat</a>
                   </li>
                   <li>
                       <a href="./Eka-citta.html">Eka-citta</a>
@@ -103,16 +100,16 @@ document.querySelector("nav").innerHTML = `
               <a class="nav-link active" aria-current="page" href="#">Beranda</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="./Tentang.html">tentang</a>
+              <a class="nav-link" href="./#testimoni">tentang</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#">proker</a>
+              <a class="nav-link" href="./#program-kerja">proker</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#">artikel</a>
+              <a class="nav-link" href="./#artikel">artikel</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#footer">kontak</a>
+              <a class="nav-link" href="./#footer">kontak</a>
           </li>
           <li class="nav-item">
               <a class="nav-link search" href="#">
