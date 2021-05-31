@@ -103,7 +103,7 @@ document.querySelector("nav").innerHTML = `
               <a class="nav-link" href="./#testimoni">tentang</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="./#program-kerja">proker</a>
+              <a class="nav-link" href="./#program-kerja-section">proker</a>
           </li>
           <li class="nav-item">
               <a class="nav-link" href="./#artikel">artikel</a>
